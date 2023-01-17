@@ -114,7 +114,6 @@ function App() {
             ))}
           </select>
         </div>
-        <h4>Add a new task in the list</h4>
       </div>
       <div className="todos">
         {todoData != "" ? (
